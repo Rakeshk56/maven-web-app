@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='green'> WELCOME TO ZION CLOUDS SOLUTIONS <font></h1>
+<h1><font color='blue'> WELCOME TO ZION CLOUDS SOLUTIONS <font></h1>
 
 <a href="https://www.zionclouds.com/">Click Here To See Courses</a>
   
