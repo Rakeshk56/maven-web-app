@@ -3,10 +3,11 @@ name: Build and Deploy to Tomcat (Self-hosted)
 on:
   push:
     branches: [ "master" ]   # change to main if needed
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
     # Step 1: Checkout
